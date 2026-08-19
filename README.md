@@ -29,3 +29,14 @@ This project analyzes the Google Play Store apps dataset along with user reviews
 
 
 ![Bubble_chart](Bubble_chart.png)
+
+pip install pandas numpy plotly nltk scikit-learn pytz
+3. Open `Analysis.ipynb` in Jupyter Notebook / JupyterLab
+4. Run all cells from top to bottom
+5. The generated dashboard HTML file(s) will be saved in the same folder
+
+## Live Dashboard
+🔗 [View Live Dashboard](YOUR_GITHUB_PAGES_LINK_HERE)
+
+## Author
+Akshay — Data Analyst Intern, ElevanceSkills
