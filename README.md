@@ -28,4 +28,4 @@ This project analyzes the Google Play Store apps dataset along with user reviews
 2. Install dependencies:
 
 
-(Bubble_chart.png)
+![Bubble_chart](Bubble_chart.png)
