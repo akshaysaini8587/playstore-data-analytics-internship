@@ -66,8 +66,7 @@ This project analyzes the Google Play Store apps dataset along with user reviews
 ## A Note on Time-Restricted Charts
 Each chart above is only rendered and saved during its specified IST window, as required by the tasks. Outside those windows, running the notebook will print a message instead of generating the chart — this is expected behavior, not an error.
 
-## Live Dashboard
-🔗 [View Live Dashboard](YOUR_GITHUB_PAGES_LINK_HERE)
+
 
 ## Author
-Punit Saini — Data Analyst Intern, ElevanceSkills
+Akshay — Data Analyst Intern, ElevanceSkills
